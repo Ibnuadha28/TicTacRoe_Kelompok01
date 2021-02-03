@@ -1,4 +1,8 @@
 # TicTacToe 6x6
+Selamat Datang Di Page Github Kami! Kelompok 1 yang beranggotakan :
+* Muhammad Rifqi Zein (19104006)
+* Ibnu Adha Nur Rohman (19104020)
+* Rafi Albaihaqi (19104042)
 
 ## Pendahuluan
 Tic tac toe merupakan game kertas dan pensil dilakukan dua orang secara berlawanan bergantian dengan menandai X dan O pada ruang baris dan kolom kotak 3x3. Namun dalam perkembangannya media kertas dapat digantikan dengan media digital yaitu biasanya terdapat dalam web atau android dan size kotak awalnya 3x3 sekarang bervariasi misalnya 6x6. Seperti yang kami rancang permainan tic tac toe menggunakan board(kotak) digital dengan implementasi materi bahasa pemrograman node.js.  Permainan ini juga berisi atas kotak 6x6 yang mana akan membuat pemain lebih berfikir kritis dalam menentukan kotak yang akan dipilih sehingga permainan terasa lebih hidup.
