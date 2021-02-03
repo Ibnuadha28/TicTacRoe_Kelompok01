@@ -11,7 +11,7 @@ Permainan ini terdiri atas
 * Result dari pemenang dan draw 
 
 ## Installation 
-* Masuk website https://repl.it
+* Masuk website https://repl.it/
 * Sign in, kemudian buat project node.js
 * Masuk ke repository https://github.com/Ibnuadha28/TicTacToe_Kelompok01.git 
 * Copy code kemudian pastekan ke index.js
