@@ -29,3 +29,6 @@ Disarankan untuk bermain secepat mungkin untuk mencapture setiap kotak yang ada
 
 ## Class Diagram
 ![Class diagram](https://user-images.githubusercontent.com/72426221/107135839-c8043e00-6930-11eb-9513-573572c23495.png)
+
+## Youtube
+* Link https://youtu.be/x5vafdLnlNY
